@@ -12,7 +12,7 @@
 </p>
 
 
-<h1 align="center">Hi, I'm 安希旭 | An XiXu 🌐</h1>
+<h1 align="center">Hi, I'm 安希旭 🌐</h1>
 <p align="center">🤖 Robotics Algorithm Engineer · 去中心化理想主义者 · AI for Freedom</p>
 
 ---
